@@ -30,7 +30,7 @@
 |24|Chemistry||
 |25|Mechanical Unit 5|https://www.youtube.com/watch?v=c8mfmDG54Dc|
 |26|More about Flutter and a bit of Chemistry||
-|27|||
+|27|Chemistry||
 |28|||
 |29|||
 |30|||
